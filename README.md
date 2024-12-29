@@ -1,4 +1,4 @@
-### README: Document Classification and Text Extraction Script
+### Document Classification and Text Extraction Script
 
 #### Overview
 This script is designed to process and classify business documents such as RFQs (Request for Quotation) and POs (Purchase Orders) from various file formats, including `.eml`, `.pdf`, `.xlsx`, `.csv`, and image files. It extracts relevant information based on predefined patterns and presents it in a concise, structured format. Additionally, the script processes and extracts text from attachments found within `.eml` files.
